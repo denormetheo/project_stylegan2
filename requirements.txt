@@ -1,0 +1,10 @@
+click
+numpy
+pillow
+tqdm
+transformers
+scikit-learn
+torch
+matplotlib
+pandas
+PySimpleGUI
