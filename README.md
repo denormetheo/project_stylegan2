@@ -1,4 +1,4 @@
-# InterfaceGan using StyleGan 2
+# StyleGan 2 InterfaceGan (part 1) and Inpainting (part 2)
  
 ! THE INPAINTING PART IS BELOW (it is the next part)!
 ## Setup 
